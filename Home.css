@@ -1,0 +1,43 @@
+.Header{
+    height: 60px;
+    width: 100%;
+    background-color:lightcoral;
+    color: white;
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.closebutton{
+    height: 40px;
+    width: 60px;
+    background-color: red;
+    color: white;
+    float: right;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.maindiv{
+    height:500px ;
+    width: 100%;
+    background-color: aquas;
+    border: 5px solid;
+    text-align: center;
+    font-size: 35px;
+   
+}
+.Sales{
+    height: 100px;
+    width: 600px;
+    /* border: 5px solid blue; */
+    margin-top: 20px;
+    color: brown;
+}
+.Expenses{
+
+    height: 200px;
+    width: 600px;
+    /* border: 5px solid blue; */
+    margin-top: 10px;
+    color: brown;
+}
